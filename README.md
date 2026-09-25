@@ -11,7 +11,8 @@
   <img src="https://img.shields.io/badge/Skill-Linux-404040?style=flat-square&labelColor=C00000" />
   <img src="https://img.shields.io/badge/Network-10.0.0.0%2F24-238F89?style=flat-square&labelColor=000000" />
   <img src="https://img.shields.io/badge/Penetration%20Testing-C00000?style=flatsquare&labelColor=000000&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Skill-theHarvester-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Skill-JTR-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Skill-John%20the%20Ripper%20-404040?style=flat-square&labelColor=C00000" />
   <img src="https://img.shields.io/badge/GitHub-404040?style=flat-square&labelColor=0070C0&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-404040?style=flat-square&labelColor=C00000&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
@@ -51,25 +52,25 @@ The exercise followed these general steps:
 
 The protected PDF was uploaded to the online hashing service to obtain the required hash.
 
-![Uploading PDF to hashing website](screenshots/01-uploading-pdf.png)
+![Uploading PDF to hashing website](https://github.com/Kayfactorial/NETWORKWALKS-B083-WK3-PM4-CYBERSECURITY-PDF-Password-Cracking-Jonny-Windows/blob/27b4726d24f4393f91828493a2438782d3a766ea/Johny01.jpg)
 
 ### 2. Copying the Hash to Jonny
 
 The generated hash was copied and prepared for use with Jonny on Windows.
 
-![Copying hash to Jonny](screenshots/02-copying-hash-to-jonny.png)
+![Copying hash to Jonny](https://github.com/Kayfactorial/NETWORKWALKS-B083-WK3-PM4-CYBERSECURITY-PDF-Password-Cracking-Jonny-Windows/blob/27b4726d24f4393f91828493a2438782d3a766ea/Johny02.jpg)
 
 ### 3. Recovering the Password
 
 Jonny was used to perform the password-cracking process and recover the correct password.
 
-![Recovering PDF password](screenshots/03-password-recovered.png)
+![Recovering PDF password](https://github.com/Kayfactorial/NETWORKWALKS-B083-WK3-PM4-CYBERSECURITY-PDF-Password-Cracking-Jonny-Windows/blob/27b4726d24f4393f91828493a2438782d3a766ea/Johny03.jpg)
 
 ### 4. Opening the PDF
 
 The recovered password was entered successfully, and the protected document was opened.
 
-![Opening unlocked PDF](screenshots/04-document-opened.png)
+![Opening unlocked PDF](https://github.com/Kayfactorial/NETWORKWALKS-B083-WK3-PM4-CYBERSECURITY-PDF-Password-Cracking-Jonny-Windows/blob/27b4726d24f4393f91828493a2438782d3a766ea/Johny04.jpg)
 
 ## Key Learning
 
@@ -91,4 +92,4 @@ NetworkWalks Ethical Hacking Week 3 Assignment.
 
 **Adio Kabiru**
 
-Network Engineer | Network Security | Cybersecurity Learner, Telecommunications Engineer 
+Network Engineer | Network Security | Cybersecurity | Telecommunications Engineer 
